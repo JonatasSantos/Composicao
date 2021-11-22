@@ -1,0 +1,16 @@
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Composicao\Composicao\bin\Debug\net5.0\Composicao.exe
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Composicao\Composicao\bin\Debug\net5.0\Composicao.deps.json
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Composicao\Composicao\bin\Debug\net5.0\Composicao.runtimeconfig.json
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Composicao\Composicao\bin\Debug\net5.0\Composicao.runtimeconfig.dev.json
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Composicao\Composicao\bin\Debug\net5.0\Composicao.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Composicao\Composicao\bin\Debug\net5.0\ref\Composicao.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Composicao\Composicao\bin\Debug\net5.0\Composicao.pdb
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Composicao\Composicao\obj\Debug\net5.0\Composicao.csproj.AssemblyReference.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Composicao\Composicao\obj\Debug\net5.0\Composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Composicao\Composicao\obj\Debug\net5.0\Composicao.AssemblyInfoInputs.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Composicao\Composicao\obj\Debug\net5.0\Composicao.AssemblyInfo.cs
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Composicao\Composicao\obj\Debug\net5.0\Composicao.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Composicao\Composicao\obj\Debug\net5.0\Composicao.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Composicao\Composicao\obj\Debug\net5.0\ref\Composicao.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Composicao\Composicao\obj\Debug\net5.0\Composicao.pdb
+C:\Users\Jonatas\Desktop\Sites e WebApps\Curso C# Completo\Composicao\Composicao\obj\Debug\net5.0\Composicao.genruntimeconfig.cache
